@@ -21,6 +21,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Project4_TuscanyVilla", "..
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "55763"
+		SlnRelativePath = "..\..\WebSites\Project4_TuscanyVilla\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
